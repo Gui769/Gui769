@@ -23,16 +23,12 @@ Here are some ideas to get you started:
 </div>
   
   <div style="display: inline_block" align="center"><br>
-  <img margin="auto 20px auto 20px" align="center" alt="HTML" height="50" width="50" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=16&color=f7f7f7">
-          
-  <img margin="auto 20px auto 20px" align="center" alt="CSS" height="50" width="50" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=148&color=ffffff">
-          
-  <img margin="auto 20px auto 20px" align="center" alt="MySql" height="60" width="70" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=000000" />
-  <img margin="auto 20px auto 20px" align="center" alt="PHP" height="50" width="60" src="https://icongr.am/devicon/php-original.svg?size=148&color=000000" />  
     
-  <img margin="auto 20px auto 20px" align="center" alt="Php" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+<img margin="auto 20px auto 20px" align="center" alt="HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img margin="auto 20px auto 20px" align="center" alt="CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img margin="auto 20px auto 20px" align="center" alt="SQL" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     
-    <img margin="auto 20px auto 20px" align="center" alt="HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img margin="auto 20px auto 20px" align="center" alt="CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img margin="auto 20px auto 20px" align="center" alt="Php" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    
   </div>
         
