@@ -15,150 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none">
-        <style>
-          .header {
-            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #2f97c1;
-            animation: fadeInAnimation 0.8s ease-in-out forwards;
-          }
-          @supports(-moz-appearance: auto) {
-            /* Selector detects Firefox */
-            .header { font-size: 15.5px; }
-          }
-          
-    .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #0cf574;
-    }
-    @supports(-moz-appearance: auto) {
-      /* Selector detects Firefox */
-      .stat { font-size:12px; }
-    }
-    .stagger {
-      opacity: 0;
-      animation: fadeInAnimation 0.3s ease-in-out forwards;
-    }
-    .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #0cf574; 
-      animation: scaleInAnimation 0.3s ease-in-out forwards;
-    }
-    
-    .bold { font-weight: 700 }
-    .icon {
-      fill: #f5b700;
-      display: none;
-    }
-    
-    .rank-circle-rim {
-      stroke: #2f97c1;
-      fill: none;
-      stroke-width: 6;
-      opacity: 0.2;
-    }
-    .rank-circle {
-      stroke: #2f97c1;
-      stroke-dasharray: 250;
-      fill: none;
-      stroke-width: 6;
-      stroke-linecap: round;
-      opacity: 0.8;
-      transform-origin: -10px 8px;
-      transform: rotate(-90deg);
-      animation: rankAnimation 1s forwards ease-in-out;
-    }
-    
-    @keyframes rankAnimation {
-      from {
-        stroke-dashoffset: 251.32741228718345;
-      }
-      to {
-        stroke-dashoffset: 128.20974077324567;
-      }
-    }
-  
-  
 
-          
-    /* Animations */
-    @keyframes scaleInAnimation {
-      from {
-        transform: translate(-5px, 5px) scale(0);
-      }
-      to {
-        transform: translate(-5px, 5px) scale(1);
-      }
-    }
-    @keyframes fadeInAnimation {
-      from {
-        opacity: 0;
-      }
-      to {
-        opacity: 1;
-      }
-    }
+<div align="center">
+  <a href="https://github.com/Gui769">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gui769&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui769&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   
+  <div style="display: inline_block" align="center"><br>
+  <img margin="auto 20px auto 20px" align="center" alt="HTML" height="50" width="50" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=16&color=f7f7f7">
           
-        </style>
-
+  <img margin="auto 20px auto 20px" align="center" alt="CSS" height="50" width="50" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=148&color=ffffff">
+          
+  <img margin="auto 20px auto 20px" align="center" alt="MySql" height="60" width="70" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=000000" />
+  <img margin="auto 20px auto 20px" align="center" alt="PHP" height="50" width="60" src="https://icongr.am/devicon/php-original.svg?size=148&color=000000" />           
+  </div>
         
-
-        <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="494" fill="#040f0f" stroke-opacity="1"/>
-
-        
-      <g data-testid="card-title" transform="translate(25, 35)">
-        <g transform="translate(0, 0)">
-      <text x="0" y="0" class="header" data-testid="header">Guilherme Scarabelli's GitHub Stats</text>
-    </g>
-      </g>
-    
-
-        <g data-testid="main-card-body" transform="translate(0, 55)">
-          
-    <g data-testid="rank-circle" transform="translate(400, 47.5)">
-        <circle class="rank-circle-rim" cx="-10" cy="8" r="40"/>
-        <circle class="rank-circle" cx="-10" cy="8" r="40"/>
-        <g class="rank-text">
-          <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">
-            A+
-          </text>
-        </g>
-      </g>
-
-    <svg x="0" y="0">
-      <g transform="translate(0, 0)">
-    <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
-      
-      <text class="stat bold" y="12.5">Total Stars Earned:</text>
-      <text class="stat" x="170" y="12.5" data-testid="stars">0</text>
-    </g>
-  </g><g transform="translate(0, 25)">
-    <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
-      
-      <text class="stat bold" y="12.5">Total Commits (2022):</text>
-      <text class="stat" x="170" y="12.5" data-testid="commits">4</text>
-    </g>
-  </g><g transform="translate(0, 50)">
-    <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
-      
-      <text class="stat bold" y="12.5">Total PRs:</text>
-      <text class="stat" x="170" y="12.5" data-testid="prs">0</text>
-    </g>
-  </g><g transform="translate(0, 75)">
-    <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
-      
-      <text class="stat bold" y="12.5">Total Issues:</text>
-      <text class="stat" x="170" y="12.5" data-testid="issues">0</text>
-    </g>
-  </g><g transform="translate(0, 100)">
-    <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
-      
-      <text class="stat bold" y="12.5">Contributed to:</text>
-      <text class="stat" x="170" y="12.5" data-testid="contribs">0</text>
-    </g>
-  </g>
-    </svg> 
-  
-        </g>
-      </svg>
-
-
