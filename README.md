@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 <img margin="auto 20px auto 20px" align="center" alt="CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img margin="auto 20px auto 20px" align="center" alt="SQL" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">   
 <img margin="auto 20px auto 20px" align="center" alt="Php" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+<i class="devicon-laravel-plain-wordmark colored"></i>
+
     
   </div>
         
